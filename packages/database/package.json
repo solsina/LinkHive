@@ -1,0 +1,15 @@
+{
+  "name": "@linkhive/database",
+  "version": "0.1.0",
+  "private": true,
+  "main": "./supabase/migrations/001_initial_schema.sql",
+  "scripts": {
+    "build": "echo 'Database package - no build needed'",
+    "dev": "echo 'Database package - no dev needed'",
+    "lint": "echo 'Database package - no lint needed'",
+    "clean": "echo 'Database package - no clean needed'"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.2"
+  }
+}
